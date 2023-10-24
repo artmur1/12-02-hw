@@ -36,6 +36,10 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Запрос на получение списка прав для пользователя sys_temp. 
 
+![alt text](https://github.com/artmur1/12-02-hw/blob/main/12-02_zad1-6.png)
+
+Загрузка информационной схемы и данных таблицы sakila.
+
 ![alt text](https://github.com/artmur1/12-02-hw/blob/main/12-02_zad1-3.png)
 
 ![alt text](https://github.com/artmur1/12-02-hw/blob/main/12-02_zad1-4.png)
